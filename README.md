@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+If you're here to examine my projects, please take look at rafalkesik.github.io. It covers my current HTML, CSS, JS & Responsive Design knowledge.
+
 - 🔭 •I’m currently working on becoming a **Software Developer** from scratch.
 - 🌱 **I’m currently learning JavaScript** - by following Learn Enough™ JavaScript to Be Dangerous.
 - 👯 I’m looking to collaborate on any project which I could add to my portfolio.
