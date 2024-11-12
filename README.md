@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-If you're here to examine my projects, please take look at rafalkesik.github.io. It covers my current HTML, CSS, JS & Responsive Design knowledge.
+If you're here to examine my projects, please take look at [My Sample Ruby on Rails App](https://sample-app-yyq0.onrender.com), and [My Test Page](https://rafalkesik.github.io). They cover my current Ruby on Rails, HTML, CSS, JS knowledge.
 
 - 🔭 •I’m currently working on becoming a **Software Developer** from scratch.
-- 🌱 **I’m currently learning JavaScript** - by following Learn Enough™ JavaScript to Be Dangerous.
+- 🌱 **I’m currently developing a new Ruby on Rails App, to add it to my portfolio.
+- 🌱 **I've recently finished Ruby on Rails tutorial** - by following Learn Enough™ Rails 7 to Be Dangerous.
 - 👯 I’m looking to collaborate on any project which I could add to my portfolio.
 - 💬 Ask me about IT Project Management, Agile fundamentals & Agile Crisis.
 - 📫 How to reach me: https://www.linkedin.com/in/rafal-kesik/
