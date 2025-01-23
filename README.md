@@ -4,7 +4,7 @@ If you're here to examine my projects, please take look at [Cyberpunk News Rails
 
 Before these Rails sites, I made a dynamic WebApp in vanilla JavaScript: https://rafalkesik.github.io
 
-- 🔭 I’m currently working on becoming a **Software Developer**.
+- 🔭 I’m currently looking for a job as **Junior Ruby on Rails Developer**.
 - 🌱 **I’m currently developing a new Ruby on Rails project: [Cyberpunk News](https://github.com/rafalkesik/Cyberpunk_News)**
 - 🌱 I've quite recently finished **Ruby on Rails tutorial** - by following Learn Enough™ Rails 7 to Be Dangerous.
 - 👯 I’m collaborating with [@qnsi](https://github.com/qnsi) to upskill my development & collaboration skills
